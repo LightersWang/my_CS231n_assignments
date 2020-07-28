@@ -1,6 +1,7 @@
 *.swp
 *.pyc
 *.h5
+*.npz
 .env/*
 .vscode/*
 .ipynb_checkpoints/*
