@@ -5,6 +5,7 @@
 .env/*
 .vscode/*
 .ipynb_checkpoints/*
+cs231n/datasets/MNIST_data/*
 
 # gitignore the built release.
 assignment3/*
